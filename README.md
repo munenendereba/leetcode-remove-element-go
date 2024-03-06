@@ -14,6 +14,7 @@ Consider the number of elements in nums which are not equal to val be k, to get 
 ## Running
 
 Run using the following command: `go run .`
+To run the tests `go test -v .`
 
 ## Authors
 
